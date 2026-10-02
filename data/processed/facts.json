@@ -1,0 +1,234 @@
+{
+ "schema": 1,
+ "project": "chicago-micromobility",
+ "release": "2026-10-02",
+ "snapshot_date": "2026-10-02",
+ "coverage": {
+  "start": "2019-06",
+  "end": "2025-12"
+ },
+ "generated_by": "scripts/export_public.py",
+ "sources": [
+  {
+   "id": "scooters_2019",
+   "name": "E-Scooter Trips - 2019 Pilot (City of Chicago data portal, 2kfw-zvte)",
+   "url": "https://data.cityofchicago.org/d/2kfw-zvte",
+   "pulled": "2026-10-02",
+   "rows_updated": "2020-03-05"
+  },
+  {
+   "id": "scooters_2020",
+   "name": "E-Scooter Trips - 2020 (City of Chicago data portal, 3rse-fbp6)",
+   "url": "https://data.cityofchicago.org/d/3rse-fbp6",
+   "pulled": "2026-10-02",
+   "rows_updated": "2021-05-13"
+  },
+  {
+   "id": "scooters",
+   "name": "E-Scooter Trips (City of Chicago data portal, 2i5w-ykuw)",
+   "url": "https://data.cityofchicago.org/d/2i5w-ykuw",
+   "pulled": "2026-10-02",
+   "rows_updated": "2026-05-22"
+  },
+  {
+   "id": "community_areas",
+   "name": "Boundaries - Community Areas (City of Chicago data portal, igwz-8jzy)",
+   "url": "https://data.cityofchicago.org/d/igwz-8jzy",
+   "pulled": "2026-10-02",
+   "rows_updated": "2025-04-22"
+  },
+  {
+   "id": "wards",
+   "name": "Boundaries - Wards (2023-) (City of Chicago data portal, p293-wvbd)",
+   "url": "https://data.cityofchicago.org/d/p293-wvbd",
+   "pulled": "2026-10-02",
+   "rows_updated": "2022-06-15"
+  },
+  {
+   "id": "census",
+   "name": "TIGERweb, 2020 census blocks, tracts and places (U.S. Census Bureau)",
+   "url": "https://tigerweb.geo.census.gov/",
+   "pulled": "2026-10-02"
+  }
+ ],
+ "facts": {
+  "scooter_trips_2019": {
+   "value": 710833,
+   "display": "710,833",
+   "label": "Trips in the City’s e-scooter trip table, 2019",
+   "definition": "Trips started in 2019 in the City’s table for that year, those with a negative trip duration left out.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters_2019"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2020": {
+   "value": 630816,
+   "display": "630,816",
+   "label": "Trips in the City’s e-scooter trip table, 2020",
+   "definition": "Trips started in 2020 in the City’s table for that year, those with a negative trip duration left out.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters_2020"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2022": {
+   "value": 1491694,
+   "display": "1,491,694",
+   "label": "Trips in the City’s e-scooter trip table, 2022",
+   "definition": "Trips started in 2022 in the City’s table for that year, those with a negative trip duration left out.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2023": {
+   "value": 2304128,
+   "display": "2,304,128",
+   "label": "Trips in the City’s e-scooter trip table, 2023",
+   "definition": "Trips started in 2023 in the City’s table for that year, those with a negative trip duration left out.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2024": {
+   "value": 6716090,
+   "display": "6,716,090",
+   "label": "Trips in the City’s e-scooter trip table, 2024",
+   "definition": "Trips started in 2024 in the City’s table for that year, those with a negative trip duration left out.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2025": {
+   "value": 9452673,
+   "display": "9,452,673",
+   "label": "Trips in the City’s e-scooter trip table, 2025",
+   "definition": "Trips started in 2025 in the City’s table for that year, those with a negative trip duration left out.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2025_coco": {
+   "value": 36781,
+   "display": "36,781",
+   "label": "Trips under vendor “Coco” in the City’s e-scooter trip table, 2025",
+   "definition": "Trips started in 2025 under vendor “Coco”, as the City publishes them, negative durations left out.",
+   "source_file": "scooter_trips_month.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2025_lime": {
+   "value": 6087691,
+   "display": "6,087,691",
+   "label": "Trips under vendor “Lime” in the City’s e-scooter trip table, 2025",
+   "definition": "Trips started in 2025 under vendor “Lime”, as the City publishes them, negative durations left out.",
+   "source_file": "scooter_trips_month.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2025_lyft": {
+   "value": 3232314,
+   "display": "3,232,314",
+   "label": "Trips under vendor “Lyft” in the City’s e-scooter trip table, 2025",
+   "definition": "Trips started in 2025 under vendor “Lyft”, as the City publishes them, negative durations left out. From 2024-07 these rows also hold municipal classic-bike rides.",
+   "source_file": "scooter_trips_month.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "scooter_trips_2025_serve": {
+   "value": 95887,
+   "display": "95,887",
+   "label": "Trips under vendor “Serve” in the City’s e-scooter trip table, 2025",
+   "definition": "Trips started in 2025 under vendor “Serve”, as the City publishes them, negative durations left out.",
+   "source_file": "scooter_trips_month.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null,
+   "unit": "trips"
+  },
+  "community_areas": {
+   "value": 77,
+   "display": "77",
+   "label": "Chicago community areas",
+   "definition": "Rows of population_2020.csv for Chicago community areas.",
+   "source_file": "population_2020.csv",
+   "sources": [
+    "community_areas"
+   ],
+   "rounding": null,
+   "unit": "areas"
+  },
+  "population_2020_chicago": {
+   "value": 2746412,
+   "display": "2,746,412",
+   "label": "Chicago’s 2020 population, by census block",
+   "definition": "2020 census block populations summed over the blocks whose interior point falls in a Chicago community area.",
+   "source_file": "population_2020.csv",
+   "sources": [
+    "census",
+    "community_areas"
+   ],
+   "rounding": null,
+   "unit": "people"
+  },
+  "scooter_first_date": {
+   "value": "2019-06-15",
+   "display": "2019-06-15",
+   "label": "First day of scooter trips",
+   "definition": "The start date of the earliest trip in the City’s three tables.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters_2019"
+   ],
+   "rounding": null
+  },
+  "scooter_last_date": {
+   "value": "2025-12-31",
+   "display": "2025-12-31",
+   "label": "Last day of scooter trips",
+   "definition": "The start date of the latest trip in the City’s three tables.",
+   "source_file": "scooter_trips_year.csv",
+   "sources": [
+    "scooters"
+   ],
+   "rounding": null
+  }
+ },
+ "invariants": [
+  {
+   "sum": [
+    "scooter_trips_2025_coco",
+    "scooter_trips_2025_lime",
+    "scooter_trips_2025_lyft",
+    "scooter_trips_2025_serve"
+   ],
+   "equals": "scooter_trips_2025"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+year,dataset,trips_as_published,under_60_seconds,negative_duration,trips,flags
+2019,2kfw-zvte,710839,87362,6,710833,
+2020,3rse-fbp6,630816,22621,0,630816,
+2022,2i5w-ykuw,1491771,65702,77,1491694,
+2023,2i5w-ykuw,2305466,82834,1338,2304128,
+2024,2i5w-ykuw,6717872,161398,1782,6716090,includes_classic_bike_rides
+2025,2i5w-ykuw,9452755,281757,82,9452673,includes_classic_bike_rides

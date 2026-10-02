@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Chicago micromobility trips"
+abstract: "E-scooter trips from the City of Chicago's three trip tables, by month, vendor, community area and route, and 2020 population by community area, ward and census tract, built from sources pulled on the release date. Municipal bike-share trips are not included: their source may not be republished."
+authors:
+  - family-names: Blandford
+    given-names: Connor Ulrich
+    orcid: "https://orcid.org/0009-0009-5938-7151"
+license: CC-BY-4.0
+repository-code: "https://github.com/cub44/Chicago-Micromobility"
+url: "https://connorblandford.com/projects/chicago-micromobility/"
+version: "2026-10-02"
+date-released: 2026-10-02
+keywords:
+  - Chicago
+  - e-scooters
+  - micromobility
+  - community areas
+  - open data

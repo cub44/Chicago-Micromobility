@@ -1,0 +1,962 @@
+geo_type,geo_id,name,place,population_2020,area_sq_mi
+community_area,1,Rogers Park,Chicago,55628,1.832
+community_area,2,West Ridge,Chicago,77122,3.518
+community_area,3,Uptown,Chicago,57182,2.325
+community_area,4,Lincoln Square,Chicago,40494,2.549
+community_area,5,North Center,Chicago,35114,2.037
+community_area,6,Lake View,Chicago,103050,3.114
+community_area,7,Lincoln Park,Chicago,70492,3.153
+community_area,8,Near North Side,Chicago,105481,2.736
+community_area,9,Edison Park,Chicago,11525,1.131
+community_area,10,Norwood Park,Chicago,38327,4.358
+community_area,11,Jefferson Park,Chicago,26216,2.318
+community_area,12,Forest Glen,Chicago,19596,3.185
+community_area,13,North Park,Chicago,17559,2.511
+community_area,14,Albany Park,Chicago,48396,1.913
+community_area,15,Portage Park,Chicago,63020,3.936
+community_area,16,Irving Park,Chicago,51940,3.2
+community_area,17,Dunning,Chicago,43147,3.699
+community_area,18,Montclare,Chicago,14401,0.984
+community_area,19,Belmont Cragin,Chicago,78116,3.895
+community_area,20,Hermosa,Chicago,24062,1.164
+community_area,21,Avondale,Chicago,36257,1.974
+community_area,22,Logan Square,Chicago,71672,3.572
+community_area,23,Humboldt Park,Chicago,54158,3.586
+community_area,24,West Town,Chicago,87781,4.552
+community_area,25,Austin,Chicago,96557,7.11
+community_area,26,West Garfield Park,Chicago,17433,1.288
+community_area,27,East Garfield Park,Chicago,19992,1.922
+community_area,28,Near West Side,Chicago,67881,5.653
+community_area,29,North Lawndale,Chicago,34794,3.191
+community_area,30,South Lawndale,Chicago,71399,4.563
+community_area,31,Lower West Side,Chicago,33751,2.908
+community_area,32,Loop,Chicago,42298,1.653
+community_area,33,Near South Side,Chicago,28795,1.775
+community_area,34,Armour Square,Chicago,13890,0.99
+community_area,35,Douglas,Chicago,20291,1.64
+community_area,36,Oakland,Chicago,6799,0.603
+community_area,37,Fuller Park,Chicago,2567,0.71
+community_area,38,Grand Boulevard,Chicago,24589,1.728
+community_area,39,Kenwood,Chicago,19116,1.036
+community_area,40,Washington Park,Chicago,12707,1.51
+community_area,41,Hyde Park,Chicago,29456,1.607
+community_area,42,Woodlawn,Chicago,24425,2.059
+community_area,43,South Shore,Chicago,53971,2.913
+community_area,44,Chatham,Chicago,31710,2.93
+community_area,45,Avalon Park,Chicago,9458,1.241
+community_area,46,South Chicago,Chicago,27300,3.32
+community_area,47,Burnside,Chicago,2527,0.605
+community_area,48,Calumet Heights,Chicago,13088,1.738
+community_area,49,Roseland,Chicago,38816,4.778
+community_area,50,Pullman,Chicago,6820,2.099
+community_area,51,South Deering,Chicago,14105,10.805
+community_area,52,East Side,Chicago,21710,2.961
+community_area,53,West Pullman,Chicago,26104,3.533
+community_area,54,Riverdale,Chicago,7262,3.498
+community_area,55,Hegewisch,Chicago,10041,5.189
+community_area,56,Garfield Ridge,Chicago,35444,4.2
+community_area,57,Archer Heights,Chicago,14196,1.993
+community_area,58,Brighton Park,Chicago,45053,2.705
+community_area,59,McKinley Park,Chicago,15923,1.406
+community_area,60,Bridgeport,Chicago,33702,2.078
+community_area,61,New City,Chicago,43628,4.798
+community_area,62,West Elsdon,Chicago,18394,1.165
+community_area,63,Gage Park,Chicago,39540,2.183
+community_area,64,Clearing,Chicago,24468,2.534
+community_area,65,West Lawn,Chicago,33662,2.931
+community_area,66,Chicago Lawn,Chicago,55931,3.5
+community_area,67,West Englewood,Chicago,29647,3.132
+community_area,68,Englewood,Chicago,24369,3.051
+community_area,69,Greater Grand Crossing,Chicago,31471,3.52
+community_area,70,Ashburn,Chicago,41098,4.822
+community_area,71,Auburn Gresham,Chicago,44878,3.74
+community_area,72,Beverly,Chicago,19923,3.159
+community_area,73,Washington Heights,Chicago,25169,2.834
+community_area,74,Mount Greenwood,Chicago,18628,2.689
+community_area,75,Morgan Park,Chicago,21186,3.268
+community_area,76,O’Hare,Chicago,13418,13.284
+community_area,77,Edgewater,Chicago,56296,1.731
+community_area,78,Evanston,Evanston,78110,7.779
+community_area,79,Oak Park,Oak Park,54583,4.675
+ward,1,Ward 1,Chicago,57595,2.352
+ward,2,Ward 2,Chicago,56987,1.116
+ward,3,Ward 3,Chicago,55976,3.485
+ward,4,Ward 4,Chicago,53424,4.128
+ward,5,Ward 5,Chicago,54342,3.992
+ward,6,Ward 6,Chicago,52259,4.956
+ward,7,Ward 7,Chicago,52497,5.036
+ward,8,Ward 8,Chicago,52313,6.406
+ward,9,Ward 9,Chicago,52259,8.34
+ward,10,Ward 10,Chicago,52373,20.533
+ward,11,Ward 11,Chicago,52487,4.54
+ward,12,Ward 12,Chicago,53056,4.757
+ward,13,Ward 13,Chicago,54270,5.272
+ward,14,Ward 14,Chicago,53278,4.322
+ward,15,Ward 15,Chicago,52392,2.96
+ward,16,Ward 16,Chicago,52515,4.483
+ward,17,Ward 17,Chicago,52732,4.635
+ward,18,Ward 18,Chicago,56045,6.884
+ward,19,Ward 19,Chicago,52216,7.826
+ward,20,Ward 20,Chicago,52207,5.178
+ward,21,Ward 21,Chicago,54810,7.538
+ward,22,Ward 22,Chicago,52365,3.761
+ward,23,Ward 23,Chicago,52275,4.162
+ward,24,Ward 24,Chicago,52205,3.994
+ward,25,Ward 25,Chicago,52715,3.327
+ward,26,Ward 26,Chicago,57649,2.772
+ward,27,Ward 27,Chicago,57484,5.693
+ward,28,Ward 28,Chicago,52598,5.709
+ward,29,Ward 29,Chicago,53635,4.26
+ward,30,Ward 30,Chicago,57579,3.389
+ward,31,Ward 31,Chicago,57590,2.657
+ward,32,Ward 32,Chicago,57634,3.316
+ward,33,Ward 33,Chicago,57576,2.221
+ward,34,Ward 34,Chicago,52224,1.524
+ward,35,Ward 35,Chicago,57447,2.718
+ward,36,Ward 36,Chicago,57616,2.992
+ward,37,Ward 37,Chicago,53526,3.586
+ward,38,Ward 38,Chicago,57649,6.341
+ward,39,Ward 39,Chicago,56931,6.498
+ward,40,Ward 40,Chicago,57572,3.453
+ward,41,Ward 41,Chicago,55824,16.989
+ward,42,Ward 42,Chicago,53483,1.874
+ward,43,Ward 43,Chicago,57620,2.222
+ward,44,Ward 44,Chicago,57525,1.696
+ward,45,Ward 45,Chicago,56389,4.982
+ward,46,Ward 46,Chicago,57616,1.998
+ward,47,Ward 47,Chicago,57375,3.029
+ward,48,Ward 48,Chicago,56058,1.608
+ward,49,Ward 49,Chicago,57656,1.819
+ward,50,Ward 50,Chicago,56563,2.663
+tract,17031010100,Tract 101 (Rogers Park),Chicago,4905,0.141
+tract,17031010201,Tract 102.01 (Rogers Park),Chicago,6939,0.194
+tract,17031010202,Tract 102.02 (Rogers Park),Chicago,2742,0.135
+tract,17031010300,Tract 103 (Rogers Park),Chicago,6305,0.181
+tract,17031010400,Tract 104 (Rogers Park),Chicago,5079,0.209
+tract,17031010501,Tract 105.01 (Rogers Park),Chicago,4206,0.078
+tract,17031010502,Tract 105.02 (Rogers Park),Chicago,3278,0.069
+tract,17031010503,Tract 105.03 (Rogers Park),Chicago,2565,0.075
+tract,17031010600,Tract 106 (Rogers Park),Chicago,6225,0.19
+tract,17031010701,Tract 107.01 (Rogers Park),Chicago,3673,0.165
+tract,17031010702,Tract 107.02 (Rogers Park),Chicago,4776,0.138
+tract,17031020100,Tract 201 (West Ridge),Chicago,4202,0.158
+tract,17031020200,Tract 202 (West Ridge),Chicago,7128,0.478
+tract,17031020301,Tract 203.01 (West Ridge),Chicago,5261,0.318
+tract,17031020302,Tract 203.02 (West Ridge),Chicago,5010,0.246
+tract,17031020400,Tract 204 (West Ridge),Chicago,4435,0.214
+tract,17031020500,Tract 205 (West Ridge),Chicago,6599,0.297
+tract,17031020601,Tract 206.01 (West Ridge),Chicago,6699,0.227
+tract,17031020602,Tract 206.02 (West Ridge),Chicago,4662,0.189
+tract,17031020701,Tract 207.01 (West Ridge),Chicago,1879,0.227
+tract,17031020702,Tract 207.02 (West Ridge),Chicago,7717,0.271
+tract,17031020801,Tract 208.01 (West Ridge),Chicago,5648,0.252
+tract,17031020802,Tract 208.02 (West Ridge),Chicago,7546,0.248
+tract,17031020901,Tract 209.01 (West Ridge),Chicago,5848,0.188
+tract,17031020902,Tract 209.02 (West Ridge),Chicago,4488,0.193
+tract,17031030101,Tract 301.01 (Edgewater),Chicago,3687,0.049
+tract,17031030102,Tract 301.02 (Edgewater),Chicago,3121,0.045
+tract,17031030103,Tract 301.03 (Edgewater),Chicago,2104,0.035
+tract,17031030104,Tract 301.04 (Edgewater),Chicago,3521,0.044
+tract,17031030200,Tract 302 (Edgewater),Chicago,5627,0.256
+tract,17031030300,Tract 303 (Edgewater),Chicago,3148,0.121
+tract,17031030400,Tract 304 (Edgewater),Chicago,2597,0.133
+tract,17031030500,Tract 305 (Edgewater),Chicago,6183,0.238
+tract,17031030601,Tract 306.01 (Edgewater),Chicago,3293,0.056
+tract,17031030603,Tract 306.03 (Edgewater),Chicago,2045,0.045
+tract,17031030604,Tract 306.04 (Edgewater),Chicago,3737,0.073
+tract,17031030701,Tract 307.01 (Edgewater),Chicago,1671,0.027
+tract,17031030702,Tract 307.02 (Edgewater),Chicago,2318,0.009
+tract,17031030703,Tract 307.03 (Edgewater),Chicago,3075,0.076
+tract,17031030706,Tract 307.06 (Edgewater),Chicago,2933,0.148
+tract,17031030800,Tract 308 (Edgewater),Chicago,4284,0.218
+tract,17031030900,Tract 309 (Edgewater),Chicago,2952,0.157
+tract,17031031000,Tract 310 (Uptown),Chicago,3868,0.163
+tract,17031031100,Tract 311 (Uptown),Chicago,4691,0.211
+tract,17031031200,Tract 312 (Uptown),Chicago,5541,0.126
+tract,17031031300,Tract 313 (Uptown),Chicago,6719,0.243
+tract,17031031400,Tract 314 (Uptown),Chicago,5221,0.584
+tract,17031031501,Tract 315.01 (Uptown),Chicago,4155,0.061
+tract,17031031502,Tract 315.02 (Uptown),Chicago,4712,0.062
+tract,17031031700,Tract 317 (Uptown),Chicago,6294,0.184
+tract,17031031800,Tract 318 (Uptown),Chicago,1910,0.09
+tract,17031031900,Tract 319 (Uptown),Chicago,2522,0.099
+tract,17031032100,Tract 321 (Uptown),Chicago,7543,0.166
+tract,17031040100,Tract 401 (Lincoln Square),Chicago,3905,0.77
+tract,17031040201,Tract 402.01 (Lincoln Square),Chicago,6408,0.277
+tract,17031040202,Tract 402.02 (Lincoln Square),Chicago,7318,0.226
+tract,17031040300,Tract 403 (Lincoln Square),Chicago,2928,0.295
+tract,17031040401,Tract 404.01 (Lincoln Square),Chicago,3129,0.148
+tract,17031040402,Tract 404.02 (Lincoln Square),Chicago,4746,0.232
+tract,17031040600,Tract 406 (Lincoln Square),Chicago,2530,0.127
+tract,17031040700,Tract 407 (Lincoln Square),Chicago,3426,0.137
+tract,17031040800,Tract 408 (Lincoln Square),Chicago,1636,0.088
+tract,17031040900,Tract 409 (Lincoln Square),Chicago,2063,0.124
+tract,17031050100,Tract 501 (North Center),Chicago,2568,0.129
+tract,17031050200,Tract 502 (North Center),Chicago,5309,0.251
+tract,17031050300,Tract 503 (North Center),Chicago,2671,0.152
+tract,17031050500,Tract 505 (North Center),Chicago,5117,0.251
+tract,17031050600,Tract 506 (North Center),Chicago,2443,0.128
+tract,17031050700,Tract 507 (North Center),Chicago,1513,0.063
+tract,17031050800,Tract 508 (North Center),Chicago,1406,0.063
+tract,17031050900,Tract 509 (North Center),Chicago,1426,0.063
+tract,17031051000,Tract 510 (North Center),Chicago,1538,0.064
+tract,17031051100,Tract 511 (North Center),Chicago,1599,0.063
+tract,17031051200,Tract 512 (North Center),Chicago,1581,0.063
+tract,17031051300,Tract 513 (North Center),Chicago,2907,0.124
+tract,17031051400,Tract 514 (North Center),Chicago,2492,0.138
+tract,17031060100,Tract 601 (Lake View),Chicago,2830,0.125
+tract,17031060200,Tract 602 (Lake View),Chicago,2313,0.122
+tract,17031060300,Tract 603 (Lake View),Chicago,3076,0.123
+tract,17031060400,Tract 604 (Lake View),Chicago,3709,0.125
+tract,17031060500,Tract 605 (Lake View),Chicago,1374,0.088
+tract,17031060800,Tract 608 (Lake View),Chicago,5295,0.07
+tract,17031060900,Tract 609 (Lake View),Chicago,7104,0.195
+tract,17031061000,Tract 610 (Lake View),Chicago,2279,0.066
+tract,17031061100,Tract 611 (Lake View),Chicago,1367,0.067
+tract,17031061200,Tract 612 (Lake View),Chicago,1932,0.067
+tract,17031061500,Tract 615 (Lake View),Chicago,1797,0.063
+tract,17031061800,Tract 618 (Lake View),Chicago,1051,0.032
+tract,17031061901,Tract 619.01 (Lake View),Chicago,3625,0.062
+tract,17031061902,Tract 619.02 (Lake View),Chicago,4665,0.109
+tract,17031062000,Tract 620 (Lake View),Chicago,2843,0.086
+tract,17031062100,Tract 621 (Lake View),Chicago,3817,0.094
+tract,17031062200,Tract 622 (Lake View),Chicago,3244,0.093
+tract,17031062300,Tract 623 (Lake View),Chicago,1667,0.063
+tract,17031062400,Tract 624 (Lake View),Chicago,1673,0.063
+tract,17031062500,Tract 625 (Lake View),Chicago,1675,0.062
+tract,17031062600,Tract 626 (Lake View),Chicago,2477,0.127
+tract,17031062700,Tract 627 (Lake View),Chicago,2955,0.125
+tract,17031062800,Tract 628 (Lake View),Chicago,3851,0.125
+tract,17031062900,Tract 629 (Lake View),Chicago,4125,0.125
+tract,17031063000,Tract 630 (Lake View),Chicago,3417,0.125
+tract,17031063100,Tract 631 (Lake View),Chicago,2376,0.061
+tract,17031063200,Tract 632 (Lake View),Chicago,6900,0.143
+tract,17031063301,Tract 633.01 (Lake View),Chicago,2833,0.036
+tract,17031063302,Tract 633.02 (Lake View),Chicago,4577,0.047
+tract,17031063303,Tract 633.03 (Lake View),Chicago,1274,0.09
+tract,17031063400,Tract 634 (Lake View),Chicago,2417,0.061
+tract,17031070101,Tract 701.01 (Lincoln Park),Chicago,4171,0.26
+tract,17031070102,Tract 701.02 (Lincoln Park),Chicago,3063,0.048
+tract,17031070103,Tract 701.03 (Lincoln Park),Chicago,1845,0.027
+tract,17031070200,Tract 702 (Lincoln Park),Chicago,4200,0.131
+tract,17031070300,Tract 703 (Lincoln Park),Chicago,4349,0.125
+tract,17031070400,Tract 704 (Lincoln Park),Chicago,3250,0.125
+tract,17031070500,Tract 705 (Lincoln Park),Chicago,3322,0.117
+tract,17031070600,Tract 706 (Lincoln Park),Chicago,3449,0.132
+tract,17031070700,Tract 707 (Lincoln Park),Chicago,3699,0.264
+tract,17031071000,Tract 710 (Lincoln Park),Chicago,4357,0.125
+tract,17031071100,Tract 711 (Lincoln Park),Chicago,3091,0.125
+tract,17031071200,Tract 712 (Lincoln Park),Chicago,2973,0.125
+tract,17031071300,Tract 713 (Lincoln Park),Chicago,3893,0.119
+tract,17031071400,Tract 714 (Lincoln Park),Chicago,4962,0.258
+tract,17031071500,Tract 715 (Lincoln Park),Chicago,6282,0.356
+tract,17031071600,Tract 716 (Lincoln Park),Chicago,1793,0.062
+tract,17031071700,Tract 717 (Lincoln Park),Chicago,1660,0.061
+tract,17031071800,Tract 718 (Lincoln Park),Chicago,2652,0.124
+tract,17031080100,Tract 801 (Near North Side),Chicago,6388,0.102
+tract,17031080201,Tract 802.01 (Near North Side),Chicago,3375,0.052
+tract,17031080202,Tract 802.02 (Near North Side),Chicago,4225,0.06
+tract,17031080300,Tract 803 (Near North Side),Chicago,5499,0.139
+tract,17031080400,Tract 804 (Near North Side),Chicago,4569,0.126
+tract,17031081000,Tract 810 (Near North Side),Chicago,8746,0.115
+tract,17031081100,Tract 811 (Near North Side),Chicago,4187,0.04
+tract,17031081201,Tract 812.01 (Near North Side),Chicago,5080,0.071
+tract,17031081202,Tract 812.02 (Near North Side),Chicago,3357,0.087
+tract,17031081300,Tract 813 (Near North Side),Chicago,5540,0.078
+tract,17031081401,Tract 814.01 (Near North Side),Chicago,2508,0.108
+tract,17031081402,Tract 814.02 (Near North Side),Chicago,7052,0.222
+tract,17031081403,Tract 814.03 (Near North Side),Chicago,9843,0.229
+tract,17031081500,Tract 815 (Near North Side),Chicago,5917,0.114
+tract,17031081600,Tract 816 (Near North Side),Chicago,4168,0.051
+tract,17031081700,Tract 817 (Near North Side),Chicago,5537,0.143
+tract,17031081800,Tract 818 (Near North Side),Chicago,11373,0.286
+tract,17031081900,Tract 819 (Near North Side),Chicago,1325,0.053
+tract,17031090100,Tract 901 (Edison Park),Chicago,3585,0.359
+tract,17031090200,Tract 902 (Edison Park),Chicago,6626,0.588
+tract,17031090300,Tract 903 (Edison Park),Chicago,1314,0.183
+tract,17031100100,Tract 1001 (Norwood Park),Chicago,5538,0.455
+tract,17031100200,Tract 1002 (Norwood Park),Chicago,7024,0.786
+tract,17031100300,Tract 1003 (Norwood Park),Chicago,6252,0.896
+tract,17031100400,Tract 1004 (Norwood Park),Chicago,3207,0.374
+tract,17031100500,Tract 1005 (Norwood Park),Chicago,6116,0.749
+tract,17031100600,Tract 1006 (Norwood Park),Chicago,4897,0.493
+tract,17031100700,Tract 1007 (Norwood Park),Chicago,4967,0.466
+tract,17031110100,Tract 1101 (Jefferson Park),Chicago,5568,0.709
+tract,17031110200,Tract 1102 (Jefferson Park),Chicago,2772,0.229
+tract,17031110300,Tract 1103 (Jefferson Park),Chicago,5348,0.466
+tract,17031110400,Tract 1104 (Jefferson Park),Chicago,4522,0.359
+tract,17031110501,Tract 1105.01 (Jefferson Park),Chicago,4786,0.304
+tract,17031110502,Tract 1105.02 (Jefferson Park),Chicago,3220,0.25
+tract,17031120100,Tract 1201 (Forest Glen),Chicago,4402,1.066
+tract,17031120200,Tract 1202 (Forest Glen),Chicago,4748,0.916
+tract,17031120300,Tract 1203 (Forest Glen),Chicago,6920,0.79
+tract,17031120400,Tract 1204 (Forest Glen),Chicago,3526,0.409
+tract,17031130100,Tract 1301 (North Park),Chicago,5205,0.708
+tract,17031130200,Tract 1302 (North Park),Chicago,1403,0.8
+tract,17031130300,Tract 1303 (North Park),Chicago,5083,0.277
+tract,17031140100,Tract 1401 (Albany Park),Chicago,3464,0.111
+tract,17031140200,Tract 1402 (Albany Park),Chicago,5834,0.152
+tract,17031140301,Tract 1403.01 (Albany Park),Chicago,2693,0.063
+tract,17031140302,Tract 1403.02 (Albany Park),Chicago,4060,0.159
+tract,17031140400,Tract 1404 (Albany Park),Chicago,6503,0.454
+tract,17031140500,Tract 1405 (Albany Park),Chicago,3451,0.174
+tract,17031140601,Tract 1406.01 (Albany Park),Chicago,2545,0.105
+tract,17031140602,Tract 1406.02 (Albany Park),Chicago,5041,0.148
+tract,17031140701,Tract 1407.01 (Albany Park),Chicago,2784,0.088
+tract,17031140702,Tract 1407.02 (Albany Park),Chicago,5535,0.164
+tract,17031140800,Tract 1408 (Albany Park),Chicago,6486,0.279
+tract,17031150200,Tract 1502 (Portage Park),Chicago,7434,0.51
+tract,17031150300,Tract 1503 (Portage Park),Chicago,7120,0.51
+tract,17031150401,Tract 1504.01 (Portage Park),Chicago,4681,0.284
+tract,17031150402,Tract 1504.02 (Portage Park),Chicago,3831,0.255
+tract,17031150501,Tract 1505.01 (Portage Park),Chicago,3823,0.269
+tract,17031150502,Tract 1505.02 (Portage Park),Chicago,4239,0.263
+tract,17031150600,Tract 1506 (Portage Park),Chicago,3882,0.252
+tract,17031150700,Tract 1507 (Portage Park),Chicago,4429,0.255
+tract,17031150800,Tract 1508 (Portage Park),Chicago,4903,0.254
+tract,17031151001,Tract 1510.01 (Portage Park),Chicago,2833,0.127
+tract,17031151002,Tract 1510.02 (Portage Park),Chicago,4588,0.245
+tract,17031151100,Tract 1511 (Portage Park),Chicago,5140,0.254
+tract,17031151200,Tract 1512 (Portage Park),Chicago,3880,0.252
+tract,17031160100,Tract 1601 (Irving Park),Chicago,2444,0.228
+tract,17031160200,Tract 1602 (Irving Park),Chicago,3278,0.368
+tract,17031160300,Tract 1603 (Irving Park),Chicago,3769,0.164
+tract,17031160400,Tract 1604 (Irving Park),Chicago,4854,0.253
+tract,17031160501,Tract 1605.01 (Irving Park),Chicago,3703,0.133
+tract,17031160502,Tract 1605.02 (Irving Park),Chicago,3300,0.12
+tract,17031160601,Tract 1606.01 (Irving Park),Chicago,3380,0.126
+tract,17031160602,Tract 1606.02 (Irving Park),Chicago,3481,0.226
+tract,17031160700,Tract 1607 (Irving Park),Chicago,5766,0.304
+tract,17031160800,Tract 1608 (Irving Park),Chicago,4997,0.253
+tract,17031160900,Tract 1609 (Irving Park),Chicago,2410,0.253
+tract,17031161000,Tract 1610 (Irving Park),Chicago,1899,0.164
+tract,17031161100,Tract 1611 (Irving Park),Chicago,1940,0.222
+tract,17031161200,Tract 1612 (Irving Park),Chicago,2820,0.199
+tract,17031161300,Tract 1613 (Irving Park),Chicago,3899,0.191
+tract,17031170100,Tract 1701 (Dunning),Chicago,2034,0.39
+tract,17031170200,Tract 1702 (Dunning),Chicago,3812,0.251
+tract,17031170300,Tract 1703 (Dunning),Chicago,5216,0.538
+tract,17031170400,Tract 1704 (Dunning),Chicago,4141,0.296
+tract,17031170500,Tract 1705 (Dunning),Chicago,5316,0.592
+tract,17031170600,Tract 1706 (Dunning),Chicago,2551,0.218
+tract,17031170700,Tract 1707 (Dunning),Chicago,3068,0.223
+tract,17031170800,Tract 1708 (Dunning),Chicago,3799,0.281
+tract,17031170900,Tract 1709 (Dunning),Chicago,1662,0.123
+tract,17031171000,Tract 1710 (Dunning),Chicago,7313,0.535
+tract,17031171100,Tract 1711 (Dunning),Chicago,4235,0.256
+tract,17031180100,Tract 1801 (Montclare),Chicago,6656,0.411
+tract,17031190100,Tract 1901 (Belmont Cragin),Chicago,2325,0.121
+tract,17031190200,Tract 1902 (Belmont Cragin),Chicago,5652,0.254
+tract,17031190300,Tract 1903 (Belmont Cragin),Chicago,5738,0.254
+tract,17031190401,Tract 1904.01 (Belmont Cragin),Chicago,4325,0.252
+tract,17031190402,Tract 1904.02 (Belmont Cragin),Chicago,5294,0.251
+tract,17031190601,Tract 1906.01 (Belmont Cragin),Chicago,4382,0.265
+tract,17031190602,Tract 1906.02 (Belmont Cragin),Chicago,5378,0.239
+tract,17031190701,Tract 1907.01 (Belmont Cragin),Chicago,2972,0.107
+tract,17031190702,Tract 1907.02 (Belmont Cragin),Chicago,4952,0.147
+tract,17031190800,Tract 1908 (Belmont Cragin),Chicago,6831,0.254
+tract,17031190900,Tract 1909 (Belmont Cragin),Chicago,1927,0.121
+tract,17031191000,Tract 1910 (Belmont Cragin),Chicago,2422,0.167
+tract,17031191100,Tract 1911 (Belmont Cragin),Chicago,7533,0.316
+tract,17031191200,Tract 1912 (Belmont Cragin),Chicago,3810,0.271
+tract,17031191301,Tract 1913.01 (Belmont Cragin),Chicago,5214,0.259
+tract,17031191302,Tract 1913.02 (Belmont Cragin),Chicago,4940,0.243
+tract,17031200100,Tract 2001 (Hermosa),Chicago,4118,0.225
+tract,17031200200,Tract 2002 (Hermosa),Chicago,5162,0.315
+tract,17031200300,Tract 2003 (Hermosa),Chicago,2015,0.096
+tract,17031200401,Tract 2004.01 (Hermosa),Chicago,3743,0.155
+tract,17031200402,Tract 2004.02 (Hermosa),Chicago,4192,0.148
+tract,17031210100,Tract 2101 (Avondale),Chicago,4066,0.328
+tract,17031210400,Tract 2104 (Avondale),Chicago,2912,0.162
+tract,17031210501,Tract 2105.01 (Avondale),Chicago,3555,0.12
+tract,17031210502,Tract 2105.02 (Avondale),Chicago,4099,0.133
+tract,17031210601,Tract 2106.01 (Avondale),Chicago,2717,0.105
+tract,17031210602,Tract 2106.02 (Avondale),Chicago,4148,0.147
+tract,17031210700,Tract 2107 (Avondale),Chicago,3907,0.191
+tract,17031210800,Tract 2108 (Avondale),Chicago,986,0.063
+tract,17031210900,Tract 2109 (Avondale),Chicago,3170,0.219
+tract,17031220300,Tract 2203 (Logan Square),Chicago,2207,0.125
+tract,17031220400,Tract 2204 (Logan Square),Chicago,2579,0.127
+tract,17031220500,Tract 2205 (Logan Square),Chicago,2751,0.133
+tract,17031220601,Tract 2206.01 (Logan Square),Chicago,1635,0.073
+tract,17031220602,Tract 2206.02 (Logan Square),Chicago,4877,0.174
+tract,17031220701,Tract 2207.01 (Logan Square),Chicago,2920,0.102
+tract,17031220702,Tract 2207.02 (Logan Square),Chicago,3653,0.221
+tract,17031220901,Tract 2209.01 (Logan Square),Chicago,2903,0.113
+tract,17031220902,Tract 2209.02 (Logan Square),Chicago,2959,0.127
+tract,17031221000,Tract 2210 (Logan Square),Chicago,2432,0.085
+tract,17031221100,Tract 2211 (Logan Square),Chicago,4440,0.169
+tract,17031221200,Tract 2212 (Logan Square),Chicago,2954,0.127
+tract,17031221300,Tract 2213 (Logan Square),Chicago,3062,0.127
+tract,17031221400,Tract 2214 (Logan Square),Chicago,3385,0.136
+tract,17031221500,Tract 2215 (Logan Square),Chicago,2909,0.117
+tract,17031221600,Tract 2216 (Logan Square),Chicago,3159,0.126
+tract,17031222200,Tract 2222 (Logan Square),Chicago,2156,0.089
+tract,17031222500,Tract 2225 (Logan Square),Chicago,1415,0.062
+tract,17031222600,Tract 2226 (Logan Square),Chicago,1599,0.062
+tract,17031222700,Tract 2227 (Logan Square),Chicago,2082,0.086
+tract,17031222800,Tract 2228 (Logan Square),Chicago,960,0.043
+tract,17031222900,Tract 2229 (Logan Square),Chicago,1089,0.084
+tract,17031230100,Tract 2301 (Humboldt Park),Chicago,1504,0.064
+tract,17031230200,Tract 2302 (Humboldt Park),Chicago,1834,0.082
+tract,17031230300,Tract 2303 (Humboldt Park),Chicago,956,0.041
+tract,17031230400,Tract 2304 (Humboldt Park),Chicago,2235,0.13
+tract,17031230500,Tract 2305 (Humboldt Park),Chicago,3419,0.202
+tract,17031230600,Tract 2306 (Humboldt Park),Chicago,6817,0.388
+tract,17031230700,Tract 2307 (Humboldt Park),Chicago,6218,0.249
+tract,17031230800,Tract 2308 (Humboldt Park),Chicago,1234,0.079
+tract,17031230900,Tract 2309 (Humboldt Park),Chicago,5044,0.174
+tract,17031231100,Tract 2311 (Humboldt Park),Chicago,1214,0.068
+tract,17031231200,Tract 2312 (Humboldt Park),Chicago,5983,0.252
+tract,17031231500,Tract 2315 (Humboldt Park),Chicago,5655,0.384
+tract,17031240200,Tract 2402 (West Town),Chicago,1556,0.064
+tract,17031240300,Tract 2403 (West Town),Chicago,1362,0.064
+tract,17031240500,Tract 2405 (West Town),Chicago,2610,0.09
+tract,17031240600,Tract 2406 (West Town),Chicago,1489,0.064
+tract,17031240700,Tract 2407 (West Town),Chicago,1499,0.064
+tract,17031240800,Tract 2408 (West Town),Chicago,1687,0.064
+tract,17031240900,Tract 2409 (West Town),Chicago,1122,0.384
+tract,17031241000,Tract 2410 (West Town),Chicago,2363,0.08
+tract,17031241100,Tract 2411 (West Town),Chicago,3574,0.127
+tract,17031241200,Tract 2412 (West Town),Chicago,1714,0.126
+tract,17031241300,Tract 2413 (West Town),Chicago,1848,0.063
+tract,17031241400,Tract 2414 (West Town),Chicago,5273,0.199
+tract,17031241500,Tract 2415 (West Town),Chicago,2954,0.116
+tract,17031241600,Tract 2416 (West Town),Chicago,3534,0.113
+tract,17031242000,Tract 2420 (West Town),Chicago,4692,0.126
+tract,17031242100,Tract 2421 (West Town),Chicago,3976,0.126
+tract,17031242200,Tract 2422 (West Town),Chicago,4082,0.126
+tract,17031242300,Tract 2423 (West Town),Chicago,3568,0.126
+tract,17031242400,Tract 2424 (West Town),Chicago,2902,0.126
+tract,17031242500,Tract 2425 (West Town),Chicago,3426,0.119
+tract,17031242600,Tract 2426 (West Town),Chicago,5665,0.183
+tract,17031242700,Tract 2427 (West Town),Chicago,1938,0.067
+tract,17031242800,Tract 2428 (West Town),Chicago,1507,0.169
+tract,17031242900,Tract 2429 (West Town),Chicago,1962,0.124
+tract,17031243000,Tract 2430 (West Town),Chicago,2234,0.125
+tract,17031243100,Tract 2431 (West Town),Chicago,2249,0.124
+tract,17031243200,Tract 2432 (West Town),Chicago,2287,0.124
+tract,17031243300,Tract 2433 (West Town),Chicago,2431,0.126
+tract,17031243400,Tract 2434 (West Town),Chicago,2880,0.126
+tract,17031243500,Tract 2435 (West Town),Chicago,4746,0.253
+tract,17031250200,Tract 2502 (Austin),Chicago,2779,0.192
+tract,17031250300,Tract 2503 (Austin),Chicago,4742,0.238
+tract,17031250400,Tract 2504 (Austin),Chicago,5789,0.503
+tract,17031250500,Tract 2505 (Austin),Chicago,7315,0.792
+tract,17031250600,Tract 2506 (Austin),Chicago,4203,0.249
+tract,17031250700,Tract 2507 (Austin),Chicago,5932,0.254
+tract,17031250800,Tract 2508 (Austin),Chicago,2432,0.221
+tract,17031251000,Tract 2510 (Austin),Chicago,1075,0.179
+tract,17031251100,Tract 2511 (Austin),Chicago,4468,0.191
+tract,17031251200,Tract 2512 (Austin),Chicago,3910,0.254
+tract,17031251300,Tract 2513 (Austin),Chicago,5098,0.251
+tract,17031251400,Tract 2514 (Austin),Chicago,3986,0.264
+tract,17031251500,Tract 2515 (Austin),Chicago,4342,0.263
+tract,17031251600,Tract 2516 (Austin),Chicago,3522,0.185
+tract,17031251700,Tract 2517 (Austin),Chicago,1347,0.187
+tract,17031251800,Tract 2518 (Austin),Chicago,5101,0.383
+tract,17031251900,Tract 2519 (Austin),Chicago,5387,0.243
+tract,17031252000,Tract 2520 (Austin),Chicago,5646,0.24
+tract,17031252101,Tract 2521.01 (Austin),Chicago,1502,0.327
+tract,17031252102,Tract 2521.02 (Austin),Chicago,6187,0.258
+tract,17031252201,Tract 2522.01 (Austin),Chicago,2940,0.149
+tract,17031252202,Tract 2522.02 (Austin),Chicago,4783,0.245
+tract,17031260100,Tract 2601 (West Garfield Park),Chicago,1477,0.125
+tract,17031260200,Tract 2602 (West Garfield Park),Chicago,1054,0.126
+tract,17031260300,Tract 2603 (West Garfield Park),Chicago,1528,0.126
+tract,17031260400,Tract 2604 (West Garfield Park),Chicago,1398,0.126
+tract,17031260500,Tract 2605 (West Garfield Park),Chicago,1833,0.13
+tract,17031260600,Tract 2606 (West Garfield Park),Chicago,2114,0.122
+tract,17031260700,Tract 2607 (West Garfield Park),Chicago,1691,0.126
+tract,17031260800,Tract 2608 (West Garfield Park),Chicago,2271,0.126
+tract,17031260900,Tract 2609 (West Garfield Park),Chicago,1778,0.088
+tract,17031261000,Tract 2610 (West Garfield Park),Chicago,2289,0.192
+tract,17031270500,Tract 2705 (East Garfield Park),Chicago,1619,0.216
+tract,17031271200,Tract 2712 (East Garfield Park),Chicago,1172,0.127
+tract,17031271300,Tract 2713 (East Garfield Park),Chicago,1060,0.126
+tract,17031271400,Tract 2714 (East Garfield Park),Chicago,1535,0.126
+tract,17031271500,Tract 2715 (East Garfield Park),Chicago,1373,0.063
+tract,17031271800,Tract 2718 (East Garfield Park),Chicago,976,0.079
+tract,17031280100,Tract 2801 (Near West Side),Chicago,7421,0.235
+tract,17031280400,Tract 2804 (Near West Side),Chicago,1231,0.193
+tract,17031280800,Tract 2808 (Near West Side),Chicago,1198,0.091
+tract,17031280900,Tract 2809 (Near West Side),Chicago,1077,0.044
+tract,17031281900,Tract 2819 (Near West Side),Chicago,7031,0.168
+tract,17031282700,Tract 2827 (Near West Side),Chicago,2558,0.169
+tract,17031282800,Tract 2828 (Near West Side),Chicago,1634,0.063
+tract,17031283100,Tract 2831 (Near West Side),Chicago,2717,0.083
+tract,17031283200,Tract 2832 (Near West Side),Chicago,1670,0.091
+tract,17031283800,Tract 2838 (Near West Side),Chicago,3343,0.144
+tract,17031290900,Tract 2909 (North Lawndale),Chicago,3975,0.382
+tract,17031291200,Tract 2912 (North Lawndale),Chicago,2286,0.126
+tract,17031291600,Tract 2916 (North Lawndale),Chicago,874,0.085
+tract,17031292200,Tract 2922 (North Lawndale),Chicago,2942,0.151
+tract,17031292400,Tract 2924 (North Lawndale),Chicago,2041,0.127
+tract,17031292500,Tract 2925 (North Lawndale),Chicago,4057,0.377
+tract,17031300500,Tract 3005 (South Lawndale),Chicago,3243,0.104
+tract,17031300600,Tract 3006 (South Lawndale),Chicago,3253,0.126
+tract,17031300700,Tract 3007 (South Lawndale),Chicago,4798,0.126
+tract,17031300800,Tract 3008 (South Lawndale),Chicago,4136,0.125
+tract,17031300900,Tract 3009 (South Lawndale),Chicago,4553,0.126
+tract,17031301100,Tract 3011 (South Lawndale),Chicago,2323,0.081
+tract,17031301200,Tract 3012 (South Lawndale),Chicago,4087,0.185
+tract,17031301600,Tract 3016 (South Lawndale),Chicago,4995,0.126
+tract,17031301701,Tract 3017.01 (South Lawndale),Chicago,4279,0.127
+tract,17031301702,Tract 3017.02 (South Lawndale),Chicago,4121,0.127
+tract,17031301801,Tract 3018.01 (South Lawndale),Chicago,3947,0.267
+tract,17031301802,Tract 3018.02 (South Lawndale),Chicago,3376,0.132
+tract,17031301803,Tract 3018.03 (South Lawndale),Chicago,5107,0.135
+tract,17031310200,Tract 3102 (Lower West Side),Chicago,1588,0.123
+tract,17031310300,Tract 3103 (Lower West Side),Chicago,1767,0.122
+tract,17031310400,Tract 3104 (Lower West Side),Chicago,1375,0.048
+tract,17031310500,Tract 3105 (Lower West Side),Chicago,1399,0.062
+tract,17031310600,Tract 3106 (Lower West Side),Chicago,5498,0.209
+tract,17031310700,Tract 3107 (Lower West Side),Chicago,1700,0.061
+tract,17031310800,Tract 3108 (Lower West Side),Chicago,4175,0.128
+tract,17031310900,Tract 3109 (Lower West Side),Chicago,4781,0.186
+tract,17031320101,Tract 3201.01 (Loop),Chicago,9532,0.188
+tract,17031320102,Tract 3201.02 (Loop),Chicago,4846,0.184
+tract,17031320400,Tract 3204 (Loop),Chicago,2856,0.308
+tract,17031320600,Tract 3206 (Loop),Chicago,6395,0.235
+tract,17031330101,Tract 3301.01 (Near South Side),Chicago,4592,0.719
+tract,17031330102,Tract 3301.02 (Near South Side),Chicago,10811,0.155
+tract,17031330103,Tract 3301.03 (Near South Side),Chicago,8248,0.196
+tract,17031330200,Tract 3302 (Near South Side),Chicago,4008,0.304
+tract,17031340300,Tract 3403 (Armour Square),Chicago,1865,0.082
+tract,17031340400,Tract 3404 (Armour Square),Chicago,1844,0.111
+tract,17031340500,Tract 3405 (Armour Square),Chicago,1629,0.167
+tract,17031340600,Tract 3406 (Armour Square),Chicago,1151,0.191
+tract,17031350100,Tract 3501 (Douglas),Chicago,2228,0.221
+tract,17031350400,Tract 3504 (Douglas),Chicago,1512,0.077
+tract,17031351000,Tract 3510 (Douglas),Chicago,3640,0.318
+tract,17031351100,Tract 3511 (Douglas),Chicago,2038,0.133
+tract,17031351400,Tract 3514 (Douglas),Chicago,1392,0.124
+tract,17031351500,Tract 3515 (Douglas),Chicago,823,0.064
+tract,17031360200,Tract 3602 (Oakland),Chicago,1651,0.089
+tract,17031380100,Tract 3801 (Grand Boulevard),Chicago,2207,0.168
+tract,17031380200,Tract 3802 (Grand Boulevard),Chicago,2408,0.083
+tract,17031380600,Tract 3806 (Grand Boulevard),Chicago,3947,0.322
+tract,17031381200,Tract 3812 (Grand Boulevard),Chicago,2077,0.099
+tract,17031381400,Tract 3814 (Grand Boulevard),Chicago,1796,0.121
+tract,17031381500,Tract 3815 (Grand Boulevard),Chicago,667,0.042
+tract,17031381700,Tract 3817 (Grand Boulevard),Chicago,18,0.075
+tract,17031381800,Tract 3818 (Grand Boulevard),Chicago,1462,0.122
+tract,17031381900,Tract 3819 (Grand Boulevard),Chicago,1106,0.066
+tract,17031390100,Tract 3901 (Kenwood),Chicago,1553,0.185
+tract,17031390200,Tract 3902 (Kenwood),Chicago,1883,0.117
+tract,17031390300,Tract 3903 (Kenwood),Chicago,2617,0.125
+tract,17031390400,Tract 3904 (Kenwood),Chicago,2871,0.125
+tract,17031390500,Tract 3905 (Kenwood),Chicago,1666,0.125
+tract,17031390600,Tract 3906 (Kenwood),Chicago,1994,0.125
+tract,17031390700,Tract 3907 (Kenwood),Chicago,6532,0.234
+tract,17031400300,Tract 4003 (Washington Park),Chicago,1504,0.562
+tract,17031400400,Tract 4004 (Washington Park),Chicago,1995,0.125
+tract,17031400500,Tract 4005 (Washington Park),Chicago,2372,0.125
+tract,17031400800,Tract 4008 (Washington Park),Chicago,3178,0.189
+tract,17031410100,Tract 4101 (Hyde Park),Chicago,2272,0.09
+tract,17031410200,Tract 4102 (Hyde Park),Chicago,1165,0.025
+tract,17031410500,Tract 4105 (Hyde Park),Chicago,2922,0.101
+tract,17031410600,Tract 4106 (Hyde Park),Chicago,2371,0.097
+tract,17031410700,Tract 4107 (Hyde Park),Chicago,2399,0.1
+tract,17031410800,Tract 4108 (Hyde Park),Chicago,2993,0.096
+tract,17031410900,Tract 4109 (Hyde Park),Chicago,3670,0.151
+tract,17031411000,Tract 4110 (Hyde Park),Chicago,3902,0.32
+tract,17031411100,Tract 4111 (Hyde Park),Chicago,2379,0.109
+tract,17031411200,Tract 4112 (Hyde Park),Chicago,1713,0.155
+tract,17031420100,Tract 4201 (Woodlawn),Chicago,1642,0.321
+tract,17031420200,Tract 4202 (Woodlawn),Chicago,1781,0.106
+tract,17031420300,Tract 4203 (Woodlawn),Chicago,2818,0.094
+tract,17031420400,Tract 4204 (Woodlawn),Chicago,1544,0.094
+tract,17031420500,Tract 4205 (Woodlawn),Chicago,2053,0.094
+tract,17031420600,Tract 4206 (Woodlawn),Chicago,2524,0.093
+tract,17031420700,Tract 4207 (Woodlawn),Chicago,3021,0.249
+tract,17031420800,Tract 4208 (Woodlawn),Chicago,2457,0.133
+tract,17031421200,Tract 4212 (Woodlawn),Chicago,1405,0.125
+tract,17031430101,Tract 4301.01 (South Shore),Chicago,4091,0.125
+tract,17031430102,Tract 4301.02 (South Shore),Chicago,3104,0.17
+tract,17031430200,Tract 4302 (South Shore),Chicago,5086,0.254
+tract,17031430300,Tract 4303 (South Shore),Chicago,2558,0.156
+tract,17031430400,Tract 4304 (South Shore),Chicago,3031,0.21
+tract,17031430500,Tract 4305 (South Shore),Chicago,4098,0.131
+tract,17031430600,Tract 4306 (South Shore),Chicago,1670,0.128
+tract,17031430700,Tract 4307 (South Shore),Chicago,2175,0.072
+tract,17031430800,Tract 4308 (South Shore),Chicago,1862,0.126
+tract,17031430900,Tract 4309 (South Shore),Chicago,1797,0.129
+tract,17031431200,Tract 4312 (South Shore),Chicago,2898,0.251
+tract,17031431301,Tract 4313.01 (South Shore),Chicago,3590,0.155
+tract,17031431302,Tract 4313.02 (South Shore),Chicago,4351,0.168
+tract,17031431400,Tract 4314 (South Shore),Chicago,6716,0.403
+tract,17031440101,Tract 4401.01 (Chatham),Chicago,4171,0.144
+tract,17031440102,Tract 4401.02 (Chatham),Chicago,3633,0.24
+tract,17031440201,Tract 4402.01 (Chatham),Chicago,5054,0.204
+tract,17031440202,Tract 4402.02 (Chatham),Chicago,3525,0.3
+tract,17031440300,Tract 4403 (Chatham),Chicago,4677,0.496
+tract,17031440600,Tract 4406 (Chatham),Chicago,1996,0.255
+tract,17031440700,Tract 4407 (Chatham),Chicago,1497,0.125
+tract,17031440800,Tract 4408 (Chatham),Chicago,1620,0.107
+tract,17031440900,Tract 4409 (Chatham),Chicago,2462,0.284
+tract,17031450300,Tract 4503 (Avalon Park),Chicago,3252,0.524
+tract,17031460100,Tract 4601 (South Chicago),Chicago,2840,1.16
+tract,17031460200,Tract 4602 (South Chicago),Chicago,1948,0.23
+tract,17031460301,Tract 4603.01 (South Chicago),Chicago,2987,0.186
+tract,17031460302,Tract 4603.02 (South Chicago),Chicago,3282,0.249
+tract,17031460400,Tract 4604 (South Chicago),Chicago,3411,0.25
+tract,17031460500,Tract 4605 (South Chicago),Chicago,5400,0.489
+tract,17031460800,Tract 4608 (South Chicago),Chicago,3639,0.262
+tract,17031461000,Tract 4610 (South Chicago),Chicago,1460,0.238
+tract,17031470100,Tract 4701 (Burnside),Chicago,2527,0.609
+tract,17031480100,Tract 4801 (Calumet Heights),Chicago,2001,0.253
+tract,17031480200,Tract 4802 (Calumet Heights),Chicago,1103,0.11
+tract,17031480300,Tract 4803 (Calumet Heights),Chicago,1348,0.159
+tract,17031480400,Tract 4804 (Calumet Heights),Chicago,5650,0.693
+tract,17031480500,Tract 4805 (Calumet Heights),Chicago,2986,0.522
+tract,17031490200,Tract 4902 (Roseland),Chicago,3040,0.333
+tract,17031490500,Tract 4905 (Roseland),Chicago,1995,0.545
+tract,17031490600,Tract 4906 (Roseland),Chicago,1443,0.262
+tract,17031490700,Tract 4907 (Roseland),Chicago,2656,0.245
+tract,17031490800,Tract 4908 (Roseland),Chicago,3502,0.414
+tract,17031490901,Tract 4909.01 (Roseland),Chicago,3403,0.324
+tract,17031490902,Tract 4909.02 (Roseland),Chicago,4647,0.458
+tract,17031491000,Tract 4910 (Roseland),Chicago,3807,0.489
+tract,17031491100,Tract 4911 (Roseland),Chicago,4079,0.506
+tract,17031491200,Tract 4912 (Roseland),Chicago,2019,0.249
+tract,17031491300,Tract 4913 (Roseland),Chicago,2023,0.247
+tract,17031491400,Tract 4914 (Roseland),Chicago,2593,0.318
+tract,17031500100,Tract 5001 (Pullman),Chicago,3545,1.016
+tract,17031500200,Tract 5002 (Pullman),Chicago,1688,0.782
+tract,17031500300,Tract 5003 (Pullman),Chicago,1587,0.272
+tract,17031510100,Tract 5101 (South Deering),Chicago,3231,0.907
+tract,17031510200,Tract 5102 (South Deering),Chicago,2922,0.489
+tract,17031510300,Tract 5103 (South Deering),Chicago,4850,1.133
+tract,17031520100,Tract 5201 (East Side),Chicago,1745,1.013
+tract,17031520200,Tract 5202 (East Side),Chicago,3338,0.466
+tract,17031520300,Tract 5203 (East Side),Chicago,5675,0.367
+tract,17031520400,Tract 5204 (East Side),Chicago,4055,0.278
+tract,17031520500,Tract 5205 (East Side),Chicago,4420,0.402
+tract,17031520600,Tract 5206 (East Side),Chicago,2530,0.417
+tract,17031530100,Tract 5301 (West Pullman),Chicago,2197,0.249
+tract,17031530200,Tract 5302 (West Pullman),Chicago,4128,0.497
+tract,17031530300,Tract 5303 (West Pullman),Chicago,3964,0.501
+tract,17031530400,Tract 5304 (West Pullman),Chicago,2059,0.502
+tract,17031530501,Tract 5305.01 (West Pullman),Chicago,4514,0.496
+tract,17031530502,Tract 5305.02 (West Pullman),Chicago,1570,0.279
+tract,17031530503,Tract 5305.03 (West Pullman),Chicago,4898,0.616
+tract,17031530600,Tract 5306 (West Pullman),Chicago,2774,0.394
+tract,17031540101,Tract 5401.01 (Riverdale),Chicago,4324,1.457
+tract,17031540102,Tract 5401.02 (Riverdale),Chicago,2938,2.022
+tract,17031550100,Tract 5501 (Hegewisch),Chicago,7019,3.164
+tract,17031550200,Tract 5502 (Hegewisch),Chicago,2969,2.053
+tract,17031560100,Tract 5601 (Garfield Ridge),Chicago,1477,0.278
+tract,17031560200,Tract 5602 (Garfield Ridge),Chicago,1710,0.25
+tract,17031560300,Tract 5603 (Garfield Ridge),Chicago,3253,0.251
+tract,17031560400,Tract 5604 (Garfield Ridge),Chicago,1630,0.13
+tract,17031560700,Tract 5607 (Garfield Ridge),Chicago,3635,0.254
+tract,17031560800,Tract 5608 (Garfield Ridge),Chicago,5682,0.507
+tract,17031560900,Tract 5609 (Garfield Ridge),Chicago,5112,0.503
+tract,17031561000,Tract 5610 (Garfield Ridge),Chicago,5308,0.509
+tract,17031561100,Tract 5611 (Garfield Ridge),Chicago,5581,0.507
+tract,17031570100,Tract 5701 (Archer Heights),Chicago,1316,0.585
+tract,17031570200,Tract 5702 (Archer Heights),Chicago,2096,0.677
+tract,17031570300,Tract 5703 (Archer Heights),Chicago,6376,0.376
+tract,17031570400,Tract 5704 (Archer Heights),Chicago,1769,0.178
+tract,17031570500,Tract 5705 (Archer Heights),Chicago,2639,0.162
+tract,17031580100,Tract 5801 (Brighton Park),Chicago,3228,0.293
+tract,17031580200,Tract 5802 (Brighton Park),Chicago,3466,0.28
+tract,17031580300,Tract 5803 (Brighton Park),Chicago,2577,0.181
+tract,17031580400,Tract 5804 (Brighton Park),Chicago,4546,0.505
+tract,17031580501,Tract 5805.01 (Brighton Park),Chicago,5170,0.189
+tract,17031580502,Tract 5805.02 (Brighton Park),Chicago,5345,0.19
+tract,17031580600,Tract 5806 (Brighton Park),Chicago,5405,0.189
+tract,17031580700,Tract 5807 (Brighton Park),Chicago,5621,0.211
+tract,17031580800,Tract 5808 (Brighton Park),Chicago,2058,0.07
+tract,17031590500,Tract 5905 (McKinley Park),Chicago,1854,0.229
+tract,17031590600,Tract 5906 (McKinley Park),Chicago,3477,0.134
+tract,17031590700,Tract 5907 (McKinley Park),Chicago,3027,0.339
+tract,17031600400,Tract 6004 (Bridgeport),Chicago,4297,0.126
+tract,17031600600,Tract 6006 (Bridgeport),Chicago,2988,0.156
+tract,17031600700,Tract 6007 (Bridgeport),Chicago,2591,0.187
+tract,17031600900,Tract 6009 (Bridgeport),Chicago,3682,0.147
+tract,17031610300,Tract 6103 (New City),Chicago,5410,0.914
+tract,17031610400,Tract 6104 (New City),Chicago,2029,0.063
+tract,17031610800,Tract 6108 (New City),Chicago,1512,0.128
+tract,17031611200,Tract 6112 (New City),Chicago,2680,0.125
+tract,17031611300,Tract 6113 (New City),Chicago,3668,0.125
+tract,17031611400,Tract 6114 (New City),Chicago,3737,0.125
+tract,17031611500,Tract 6115 (New City),Chicago,3587,0.195
+tract,17031611600,Tract 6116 (New City),Chicago,1921,0.129
+tract,17031611700,Tract 6117 (New City),Chicago,2180,0.126
+tract,17031611800,Tract 6118 (New City),Chicago,2205,0.126
+tract,17031611900,Tract 6119 (New City),Chicago,1984,0.251
+tract,17031612000,Tract 6120 (New City),Chicago,1448,0.125
+tract,17031612100,Tract 6121 (New City),Chicago,1168,0.125
+tract,17031612200,Tract 6122 (New City),Chicago,3939,0.344
+tract,17031620100,Tract 6201 (West Elsdon),Chicago,4567,0.321
+tract,17031620200,Tract 6202 (West Elsdon),Chicago,2390,0.221
+tract,17031620300,Tract 6203 (West Elsdon),Chicago,6410,0.38
+tract,17031620400,Tract 6204 (West Elsdon),Chicago,5027,0.252
+tract,17031630300,Tract 6303 (Gage Park),Chicago,5385,0.378
+tract,17031630400,Tract 6304 (Gage Park),Chicago,7204,0.252
+tract,17031630500,Tract 6305 (Gage Park),Chicago,6271,0.252
+tract,17031630600,Tract 6306 (Gage Park),Chicago,3250,0.423
+tract,17031630800,Tract 6308 (Gage Park),Chicago,6641,0.251
+tract,17031630900,Tract 6309 (Gage Park),Chicago,5204,0.253
+tract,17031640100,Tract 6401 (Clearing),Chicago,1312,0.117
+tract,17031640300,Tract 6403 (Clearing),Chicago,6710,0.508
+tract,17031640400,Tract 6404 (Clearing),Chicago,3390,0.512
+tract,17031640500,Tract 6405 (Clearing),Chicago,3896,0.253
+tract,17031640600,Tract 6406 (Clearing),Chicago,4063,0.253
+tract,17031640700,Tract 6407 (Clearing),Chicago,3298,0.252
+tract,17031640800,Tract 6408 (Clearing),Chicago,1799,0.125
+tract,17031650100,Tract 6501 (West Lawn),Chicago,4765,0.258
+tract,17031650200,Tract 6502 (West Lawn),Chicago,7251,0.38
+tract,17031650301,Tract 6503.01 (West Lawn),Chicago,5829,0.378
+tract,17031650302,Tract 6503.02 (West Lawn),Chicago,4522,0.255
+tract,17031650400,Tract 6504 (West Lawn),Chicago,6894,0.422
+tract,17031650500,Tract 6505 (West Lawn),Chicago,4401,1.244
+tract,17031660301,Tract 6603.01 (Chicago Lawn),Chicago,1850,0.063
+tract,17031660302,Tract 6603.02 (Chicago Lawn),Chicago,5549,0.189
+tract,17031660400,Tract 6604 (Chicago Lawn),Chicago,5692,0.248
+tract,17031660500,Tract 6605 (Chicago Lawn),Chicago,5013,0.252
+tract,17031660600,Tract 6606 (Chicago Lawn),Chicago,6404,0.252
+tract,17031660700,Tract 6607 (Chicago Lawn),Chicago,2076,0.184
+tract,17031660800,Tract 6608 (Chicago Lawn),Chicago,6114,0.251
+tract,17031660900,Tract 6609 (Chicago Lawn),Chicago,4446,0.756
+tract,17031661000,Tract 6610 (Chicago Lawn),Chicago,5756,0.429
+tract,17031661100,Tract 6611 (Chicago Lawn),Chicago,6633,0.497
+tract,17031670100,Tract 6701 (West Englewood),Chicago,1349,0.125
+tract,17031670200,Tract 6702 (West Englewood),Chicago,1325,0.125
+tract,17031670300,Tract 6703 (West Englewood),Chicago,1287,0.125
+tract,17031670400,Tract 6704 (West Englewood),Chicago,1585,0.125
+tract,17031670500,Tract 6705 (West Englewood),Chicago,1148,0.239
+tract,17031670600,Tract 6706 (West Englewood),Chicago,1339,0.125
+tract,17031670700,Tract 6707 (West Englewood),Chicago,1252,0.125
+tract,17031670800,Tract 6708 (West Englewood),Chicago,1477,0.125
+tract,17031670900,Tract 6709 (West Englewood),Chicago,1172,0.125
+tract,17031671100,Tract 6711 (West Englewood),Chicago,994,0.094
+tract,17031671200,Tract 6712 (West Englewood),Chicago,980,0.094
+tract,17031671300,Tract 6713 (West Englewood),Chicago,2048,0.186
+tract,17031671400,Tract 6714 (West Englewood),Chicago,1558,0.19
+tract,17031671500,Tract 6715 (West Englewood),Chicago,2716,0.284
+tract,17031671600,Tract 6716 (West Englewood),Chicago,1804,0.156
+tract,17031671800,Tract 6718 (West Englewood),Chicago,1142,0.124
+tract,17031671900,Tract 6719 (West Englewood),Chicago,1122,0.123
+tract,17031672000,Tract 6720 (West Englewood),Chicago,3397,0.381
+tract,17031680500,Tract 6805 (Englewood),Chicago,1307,0.125
+tract,17031680600,Tract 6806 (Englewood),Chicago,1165,0.125
+tract,17031680900,Tract 6809 (Englewood),Chicago,3573,0.396
+tract,17031681000,Tract 6810 (Englewood),Chicago,2573,0.25
+tract,17031681100,Tract 6811 (Englewood),Chicago,2873,0.25
+tract,17031681200,Tract 6812 (Englewood),Chicago,2353,0.305
+tract,17031681300,Tract 6813 (Englewood),Chicago,2182,0.275
+tract,17031681400,Tract 6814 (Englewood),Chicago,2474,0.248
+tract,17031690300,Tract 6903 (Greater Grand Crossing),Chicago,2302,0.197
+tract,17031690400,Tract 6904 (Greater Grand Crossing),Chicago,3363,0.25
+tract,17031690500,Tract 6905 (Greater Grand Crossing),Chicago,992,0.124
+tract,17031690900,Tract 6909 (Greater Grand Crossing),Chicago,4250,0.251
+tract,17031691000,Tract 6910 (Greater Grand Crossing),Chicago,2668,0.249
+tract,17031691100,Tract 6911 (Greater Grand Crossing),Chicago,2980,0.259
+tract,17031691200,Tract 6912 (Greater Grand Crossing),Chicago,2277,0.389
+tract,17031691300,Tract 6913 (Greater Grand Crossing),Chicago,2374,0.248
+tract,17031691400,Tract 6914 (Greater Grand Crossing),Chicago,3411,0.252
+tract,17031691500,Tract 6915 (Greater Grand Crossing),Chicago,1806,0.259
+tract,17031700100,Tract 7001 (Ashburn),Chicago,3326,0.886
+tract,17031700200,Tract 7002 (Ashburn),Chicago,6554,0.619
+tract,17031700301,Tract 7003.01 (Ashburn),Chicago,5762,0.489
+tract,17031700302,Tract 7003.02 (Ashburn),Chicago,5662,0.506
+tract,17031700401,Tract 7004.01 (Ashburn),Chicago,5822,0.568
+tract,17031700402,Tract 7004.02 (Ashburn),Chicago,4082,0.44
+tract,17031700501,Tract 7005.01 (Ashburn),Chicago,6912,0.64
+tract,17031700502,Tract 7005.02 (Ashburn),Chicago,2978,0.66
+tract,17031710100,Tract 7101 (Auburn Gresham),Chicago,1015,0.082
+tract,17031710200,Tract 7102 (Auburn Gresham),Chicago,4635,0.284
+tract,17031710300,Tract 7103 (Auburn Gresham),Chicago,1424,0.126
+tract,17031710400,Tract 7104 (Auburn Gresham),Chicago,5424,0.384
+tract,17031710500,Tract 7105 (Auburn Gresham),Chicago,4036,0.287
+tract,17031710600,Tract 7106 (Auburn Gresham),Chicago,1706,0.094
+tract,17031710700,Tract 7107 (Auburn Gresham),Chicago,3420,0.188
+tract,17031710800,Tract 7108 (Auburn Gresham),Chicago,4804,0.313
+tract,17031710900,Tract 7109 (Auburn Gresham),Chicago,1942,0.38
+tract,17031711000,Tract 7110 (Auburn Gresham),Chicago,3058,0.251
+tract,17031711100,Tract 7111 (Auburn Gresham),Chicago,2499,0.251
+tract,17031711200,Tract 7112 (Auburn Gresham),Chicago,4687,0.422
+tract,17031711300,Tract 7113 (Auburn Gresham),Chicago,1462,0.134
+tract,17031711400,Tract 7114 (Auburn Gresham),Chicago,2394,0.285
+tract,17031711500,Tract 7115 (Auburn Gresham),Chicago,2372,0.249
+tract,17031720100,Tract 7201 (Beverly),Chicago,3344,0.753
+tract,17031720200,Tract 7202 (Beverly),Chicago,4131,0.641
+tract,17031720300,Tract 7203 (Beverly),Chicago,3637,0.484
+tract,17031720400,Tract 7204 (Beverly),Chicago,1961,0.254
+tract,17031720500,Tract 7205 (Beverly),Chicago,2086,0.399
+tract,17031720600,Tract 7206 (Beverly),Chicago,1691,0.223
+tract,17031720700,Tract 7207 (Beverly),Chicago,3073,0.402
+tract,17031730100,Tract 7301 (Washington Heights),Chicago,2462,0.252
+tract,17031730201,Tract 7302.01 (Washington Heights),Chicago,5627,0.383
+tract,17031730202,Tract 7302.02 (Washington Heights),Chicago,2893,0.334
+tract,17031730300,Tract 7303 (Washington Heights),Chicago,1046,0.114
+tract,17031730400,Tract 7304 (Washington Heights),Chicago,3386,0.492
+tract,17031730500,Tract 7305 (Washington Heights),Chicago,4220,0.505
+tract,17031730600,Tract 7306 (Washington Heights),Chicago,3254,0.386
+tract,17031730700,Tract 7307 (Washington Heights),Chicago,2281,0.378
+tract,17031740100,Tract 7401 (Mount Greenwood),Chicago,3234,0.341
+tract,17031740200,Tract 7402 (Mount Greenwood),Chicago,5830,0.751
+tract,17031740300,Tract 7403 (Mount Greenwood),Chicago,4869,0.505
+tract,17031740400,Tract 7404 (Mount Greenwood),Chicago,4695,1.086
+tract,17031750100,Tract 7501 (Morgan Park),Chicago,3736,0.492
+tract,17031750200,Tract 7502 (Morgan Park),Chicago,3024,0.502
+tract,17031750300,Tract 7503 (Morgan Park),Chicago,2470,0.253
+tract,17031750400,Tract 7504 (Morgan Park),Chicago,2909,0.378
+tract,17031750500,Tract 7505 (Morgan Park),Chicago,5618,1.007
+tract,17031750600,Tract 7506 (Morgan Park),Chicago,3420,0.504
+tract,17031760801,Tract 7608.01 (O’Hare),Chicago,4403,0.499
+tract,17031760802,Tract 7608.02 (O’Hare),Chicago,2374,2.361
+tract,17031760803,Tract 7608.03 (O’Hare),Chicago,6394,0.293
+tract,17031770500,Tract 7705 (O’Hare),Chicago,0,0.015
+tract,17031770602,Tract 7706.02 (O’Hare),Chicago,0,0.263
+tract,17031770700,Tract 7707 (O’Hare),Chicago,0,0.29
+tract,17031770800,Tract 7708 (O’Hare),Chicago,0,0.026
+tract,17031770902,Tract 7709.02 (O’Hare),Chicago,247,0.006
+tract,17031808702,Tract 8087.02 (Evanston),Evanston,5481,0.384
+tract,17031808800,Tract 8088 (Evanston),Evanston,3988,0.744
+tract,17031808900,Tract 8089 (Evanston),Evanston,4149,0.552
+tract,17031809000,Tract 8090 (Evanston),Evanston,4001,0.559
+tract,17031809100,Tract 8091 (Evanston),Evanston,3437,0.482
+tract,17031809200,Tract 8092 (Evanston),Evanston,4980,0.459
+tract,17031809300,Tract 8093 (Evanston),Evanston,5043,0.392
+tract,17031809401,Tract 8094.01 (Evanston),Evanston,2747,0.258
+tract,17031809402,Tract 8094.02 (Evanston),Evanston,3374,0.131
+tract,17031809500,Tract 8095 (Evanston),Evanston,4346,0.272
+tract,17031809600,Tract 8096 (Evanston),Evanston,3319,0.501
+tract,17031809700,Tract 8097 (Evanston),Evanston,3714,0.509
+tract,17031809800,Tract 8098 (Evanston),Evanston,2678,0.23
+tract,17031809900,Tract 8099 (Evanston),Evanston,3046,0.295
+tract,17031810000,Tract 8100 (Evanston),Evanston,5640,0.427
+tract,17031810100,Tract 8101 (Evanston),Evanston,4480,0.279
+tract,17031810200,Tract 8102 (Evanston),Evanston,6222,0.34
+tract,17031810301,Tract 8103.01 (Evanston),Evanston,4105,0.665
+tract,17031810302,Tract 8103.02 (Evanston),Evanston,3360,0.301
+tract,17031810400,Tract 8104 (Norwood Park),Chicago,326,0.141
+tract,17031812100,Tract 8121 (Oak Park),Oak Park,4763,0.4
+tract,17031812200,Tract 8122 (Oak Park),Oak Park,3984,0.57
+tract,17031812301,Tract 8123.01 (Oak Park),Oak Park,4978,0.232
+tract,17031812302,Tract 8123.02 (Oak Park),Oak Park,2681,0.26
+tract,17031812400,Tract 8124 (Oak Park),Oak Park,3458,0.534
+tract,17031812500,Tract 8125 (Oak Park),Oak Park,3680,0.37
+tract,17031812600,Tract 8126 (Oak Park),Oak Park,3898,0.242
+tract,17031812700,Tract 8127 (Oak Park),Oak Park,3192,0.245
+tract,17031812801,Tract 8128.01 (Oak Park),Oak Park,3387,0.122
+tract,17031812802,Tract 8128.02 (Oak Park),Oak Park,2521,0.142
+tract,17031812900,Tract 8129 (Oak Park),Oak Park,4846,0.429
+tract,17031813000,Tract 8130 (Oak Park),Oak Park,3935,0.32
+tract,17031813100,Tract 8131 (Oak Park),Oak Park,4678,0.381
+tract,17031813200,Tract 8132 (Oak Park),Oak Park,4582,0.429
+tract,17031823304,Tract 8233.04 (Morgan Park),Chicago,9,0.135
+tract,17031830500,Tract 8305 (South Lawndale),Chicago,4410,1.569
+tract,17031830600,Tract 8306 (Rogers Park),Chicago,4935,0.254
+tract,17031830700,Tract 8307 (Uptown),Chicago,4006,0.334
+tract,17031830800,Tract 8308 (Lincoln Square),Chicago,2405,0.129
+tract,17031830900,Tract 8309 (Logan Square),Chicago,3076,0.399
+tract,17031831000,Tract 8310 (Logan Square),Chicago,2633,0.108
+tract,17031831100,Tract 8311 (Avondale),Chicago,6697,0.505
+tract,17031831200,Tract 8312 (Hermosa),Chicago,4832,0.221
+tract,17031831300,Tract 8313 (Austin),Chicago,1251,0.221
+tract,17031831400,Tract 8314 (Austin),Chicago,2820,0.808
+tract,17031831500,Tract 8315 (Belmont Cragin),Chicago,4421,0.37
+tract,17031831600,Tract 8316 (Montclare),Chicago,7745,0.572
+tract,17031831700,Tract 8317 (Portage Park),Chicago,2237,0.205
+tract,17031831800,Tract 8318 (North Park),Chicago,5868,0.735
+tract,17031831900,Tract 8319 (Lake View),Chicago,3040,0.125
+tract,17031832000,Tract 8320 (Lake View),Chicago,2062,0.064
+tract,17031832100,Tract 8321 (Lake View),Chicago,3410,0.085
+tract,17031832200,Tract 8322 (Logan Square),Chicago,3289,0.154
+tract,17031832300,Tract 8323 (Logan Square),Chicago,2054,0.323
+tract,17031832400,Tract 8324 (Logan Square),Chicago,3601,0.124
+tract,17031832500,Tract 8325 (Lincoln Park),Chicago,3334,0.3
+tract,17031832600,Tract 8326 (Lincoln Park),Chicago,4147,0.277
+tract,17031832900,Tract 8329 (Near West Side),Chicago,1995,0.155
+tract,17031833000,Tract 8330 (Near West Side),Chicago,5637,0.504
+tract,17031833100,Tract 8331 (Near West Side),Chicago,9493,0.354
+tract,17031833300,Tract 8333 (Near West Side),Chicago,2912,0.183
+tract,17031833900,Tract 8339 (South Chicago),Chicago,2333,0.269
+tract,17031834000,Tract 8340 (Roseland),Chicago,3609,0.371
+tract,17031834200,Tract 8342 (South Shore),Chicago,4693,0.374
+tract,17031834300,Tract 8343 (Avalon Park),Chicago,6240,0.733
+tract,17031834400,Tract 8344 (Woodlawn),Chicago,3765,0.225
+tract,17031834500,Tract 8345 (Washington Park),Chicago,1765,0.178
+tract,17031834600,Tract 8346 (Englewood),Chicago,2357,0.599
+tract,17031834700,Tract 8347 (Englewood),Chicago,1759,0.252
+tract,17031834800,Tract 8348 (Englewood),Chicago,1753,0.23
+tract,17031834900,Tract 8349 (West Englewood),Chicago,1952,0.25
+tract,17031835000,Tract 8350 (Chicago Lawn),Chicago,6398,0.385
+tract,17031835100,Tract 8351 (Gage Park),Chicago,5585,0.385
+tract,17031835200,Tract 8352 (Garfield Ridge),Chicago,2038,0.379
+tract,17031835500,Tract 8355 (Fuller Park),Chicago,1584,0.351
+tract,17031835600,Tract 8356 (Fuller Park),Chicago,898,0.352
+tract,17031835800,Tract 8358 (Grand Boulevard),Chicago,1698,0.109
+tract,17031836000,Tract 8360 (Grand Boulevard),Chicago,2338,0.194
+tract,17031836100,Tract 8361 (Washington Park),Chicago,1893,0.33
+tract,17031836200,Tract 8362 (Hyde Park),Chicago,2178,0.312
+tract,17031836300,Tract 8363 (Hyde Park),Chicago,1492,0.053
+tract,17031836400,Tract 8364 (Oakland),Chicago,3621,0.315
+tract,17031836500,Tract 8365 (Oakland),Chicago,1527,0.199
+tract,17031836600,Tract 8366 (Humboldt Park),Chicago,2929,0.244
+tract,17031836700,Tract 8367 (Humboldt Park),Chicago,2481,0.472
+tract,17031836800,Tract 8368 (East Garfield Park),Chicago,2645,0.313
+tract,17031836900,Tract 8369 (East Garfield Park),Chicago,1439,0.063
+tract,17031837000,Tract 8370 (East Garfield Park),Chicago,2042,0.158
+tract,17031837100,Tract 8371 (East Garfield Park),Chicago,1652,0.286
+tract,17031837300,Tract 8373 (East Garfield Park),Chicago,2489,0.141
+tract,17031837400,Tract 8374 (East Garfield Park),Chicago,1990,0.227
+tract,17031837800,Tract 8378 (Near West Side),Chicago,2837,0.386
+tract,17031838000,Tract 8380 (Near West Side),Chicago,2651,0.207
+tract,17031838100,Tract 8381 (Near West Side),Chicago,1821,0.315
+tract,17031838200,Tract 8382 (Near West Side),Chicago,1675,0.442
+tract,17031838300,Tract 8383 (Near North Side),Chicago,2580,0.134
+tract,17031838600,Tract 8386 (North Lawndale),Chicago,1518,0.095
+tract,17031838700,Tract 8387 (North Lawndale),Chicago,4132,0.253
+tract,17031838800,Tract 8388 (South Deering),Chicago,3102,8.294
+tract,17031839000,Tract 8390 (Loop),Chicago,10435,0.198
+tract,17031839100,Tract 8391 (Loop),Chicago,8234,0.455
+tract,17031839200,Tract 8392 (Douglas),Chicago,2749,0.25
+tract,17031839500,Tract 8395 (Douglas),Chicago,1590,0.101
+tract,17031839600,Tract 8396 (Douglas),Chicago,1729,0.125
+tract,17031839700,Tract 8397 (Bridgeport),Chicago,4545,0.242
+tract,17031839800,Tract 8398 (Bridgeport),Chicago,2686,0.102
+tract,17031839900,Tract 8399 (Bridgeport),Chicago,4431,0.448
+tract,17031840000,Tract 8400 (Bridgeport),Chicago,3001,0.218
+tract,17031840100,Tract 8401 (Bridgeport),Chicago,3029,0.128
+tract,17031840200,Tract 8402 (Bridgeport),Chicago,2497,0.331
+tract,17031840300,Tract 8403 (McKinley Park),Chicago,4196,0.319
+tract,17031840400,Tract 8404 (McKinley Park),Chicago,3369,0.384
+tract,17031840700,Tract 8407 (South Lawndale),Chicago,3900,0.208
+tract,17031840800,Tract 8408 (South Lawndale),Chicago,3332,0.126
+tract,17031841000,Tract 8410 (Near South Side),Chicago,1136,0.405
+tract,17031841100,Tract 8411 (Armour Square),Chicago,7356,0.44
+tract,17031841200,Tract 8412 (Lower West Side),Chicago,4873,0.24
+tract,17031841300,Tract 8413 (Lower West Side),Chicago,4173,0.543
+tract,17031841500,Tract 8415 (North Lawndale),Chicago,2904,0.166
+tract,17031841700,Tract 8417 (South Lawndale),Chicago,1509,0.102
+tract,17031841800,Tract 8418 (Greater Grand Crossing),Chicago,2404,0.63
+tract,17031841900,Tract 8419 (Near West Side),Chicago,6500,0.985
+tract,17031842000,Tract 8420 (Douglas),Chicago,2590,0.226
+tract,17031842100,Tract 8421 (Humboldt Park),Chicago,6650,0.781
+tract,17031842200,Tract 8422 (Near North Side),Chicago,4212,0.593
+tract,17031842300,Tract 8423 (West Town),Chicago,3529,0.721
+tract,17031842400,Tract 8424 (Chatham),Chicago,3041,0.761
+tract,17031842500,Tract 8425 (Greater Grand Crossing),Chicago,2644,0.412
+tract,17031842600,Tract 8426 (New City),Chicago,4245,1.411
+tract,17031842800,Tract 8428 (Brighton Park),Chicago,7637,0.582
+tract,17031842900,Tract 8429 (Near West Side),Chicago,2480,0.848
+tract,17031843000,Tract 8430 (North Lawndale),Chicago,2880,0.409
+tract,17031843100,Tract 8431 (North Lawndale),Chicago,1747,0.389
+tract,17031843200,Tract 8432 (Lower West Side),Chicago,2422,1.187
+tract,17031843300,Tract 8433 (North Lawndale),Chicago,1572,0.224
+tract,17031843400,Tract 8434 (North Lawndale),Chicago,1524,0.252
+tract,17031843500,Tract 8435 (South Lawndale),Chicago,6030,0.78
+tract,17031843600,Tract 8436 (Grand Boulevard),Chicago,3089,0.158
+tract,17031843700,Tract 8437 (North Center),Chicago,2544,0.487
+tract,17031843800,Tract 8438 (New City),Chicago,2000,0.502
+tract,17031843900,Tract 8439 (Woodlawn),Chicago,3666,0.589
+tract,17031844600,Tract 8446 (Grand Boulevard),Chicago,1776,0.167
+tract,17031844700,Tract 8447 (North Lawndale),Chicago,2342,0.154
+tract,17031980000,Tract 9800 (O’Hare),Chicago,0,7.183
+tract,17031980100,Tract 9801 (Garfield Ridge),Chicago,18,1.143
