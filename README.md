@@ -6,6 +6,9 @@ E-scooter trips from the City of Chicago’s three trip tables, by month, vendor
 
 Release 2026-10-02, built from sources pulled 2026-10-02. Data under CC BY 4.0, code under MIT.
 
+DOI: [https://doi.org/10.5281/zenodo.23106922](https://doi.org/10.5281/zenodo.23106922). It stands for every
+release and resolves to the latest; Zenodo also gives each release its own.
+
 ## Files
 
 | File | One row is |
@@ -43,7 +46,7 @@ The tables land in `public/`. `tests/test_public.py` checks this release.
 ## Cite
 
 Blandford, Connor Ulrich. “Chicago micromobility trips.” Data set, release 2026-10-02. connorblandford.com.
-https://connorblandford.com/projects/chicago-micromobility/.
+https://connorblandford.com/projects/chicago-micromobility/. https://doi.org/10.5281/zenodo.23106922.
 
 Name the release date and the file you used.
 

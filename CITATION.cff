@@ -8,6 +8,7 @@ authors:
     given-names: Connor Ulrich
     orcid: "https://orcid.org/0009-0009-5938-7151"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23106922
 repository-code: "https://github.com/cub44/Chicago-Micromobility"
 url: "https://connorblandford.com/projects/chicago-micromobility/"
 version: "2026-10-02"
